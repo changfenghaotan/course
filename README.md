@@ -1,3 +1,3 @@
 # course
-print 'hello world'
-print '234324'*4
+My first reponsitory on GitHub.
+I love :coffee: :pizza:,and :dancer:.
